@@ -16,6 +16,11 @@
     }
     .AdminNav{
         background-color: #3485B2;
-        height:100vh;
+        height:98vh;
+        color:white;
+    }
+    .Adm{
+        background-color: #3485B2;
+       
         color:white;
     }
