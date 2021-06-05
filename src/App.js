@@ -7,6 +7,7 @@ import Note from './Note';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import Pmd from './projectmanager/Pmd';
 import Hrd from './hr/Hrd';
+import Adm from './admin/Adm';
 
 const  App = () => {
 
@@ -39,7 +40,8 @@ const  App = () => {
   return (
 <>
 {/* <Pmd/> */}
-<Hrd/>
+{/* <Hrd/> */}
+<Adm/>
     {/* <Header/>
    
     <CN  passNote = {addNote}/>
